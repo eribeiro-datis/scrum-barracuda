@@ -1,0 +1,15 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  background-color: lightblue;
+  text-align: center;
+}
+
+.header {
+  background-color: blue;
+  padding: 5px;
+}
+
+.purpose {
+  font-size: 18px;
+}
